@@ -88,6 +88,11 @@
                  "value":true
                 }, 
                 {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":1
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"\/sounds\/toilet.mp3"
@@ -116,6 +121,11 @@
                  "value":true
                 }, 
                 {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":1
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"\/sounds\/glasklirren.mp3"
@@ -142,6 +152,11 @@
                  "name":"audioLoop",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":1
                 }, 
                 {
                  "name":"playAudio",
@@ -193,6 +208,11 @@
                  "name":"audioLoop",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":1
                 }, 
                 {
                  "name":"playAudio",
