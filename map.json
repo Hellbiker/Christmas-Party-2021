@@ -83,7 +83,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"\/sounds\/toilet.mp3"
                 }, 
@@ -106,7 +106,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"\/sounds\/glasklirren.mp3"
                 }, 
@@ -129,7 +129,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"\/sounds\/jubeln.mp3"
                 }, 
@@ -175,7 +175,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"\/sounds\/handwash.mp3"
                 }, 
