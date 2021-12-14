@@ -375,7 +375,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfXJVDhVzMyvoJHiDoOOry4JAGtjYIk8eqRJYayRHI-Vpc2aA\/viewform"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfDPDmdamgmrBInolZqNDIcctu9p8jaVcK-Km1pHIiQAuzvyw\/viewform"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -525,11 +525,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Welcome_merry_smiths"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3af4eaf4b51ac94a21a675a4f2f51e46ef%40thread.tacv2\/1633541007717?context=%7b%22Tid%22%3a%2269f1ca9b-6971-470b-aebb-4f93a2530ae8%22%2c%22Oid%22%3a%22d567ef45-2561-4c88-8300-d66d6293e93c%22%7d"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -547,7 +542,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3af4eaf4b51ac94a21a675a4f2f51e46ef%40thread.tacv2\/1633541007717?context=%7b%22Tid%22%3a%2269f1ca9b-6971-470b-aebb-4f93a2530ae8%22%2c%22Oid%22%3a%22d567ef45-2561-4c88-8300-d66d6293e93c%22%7d"
+                 "value":"https:\/\/meet.google.com\/cvw-rjsv-bvj"
                 }],
          "type":"tilelayer",
          "visible":true,
