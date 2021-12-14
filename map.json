@@ -524,7 +524,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/us05web.zoom.us\/j\/6171671225?pwd=U1lucHVycHh4V2xXY0o5UzF3QWx3QT09"
+                 "value":"https:\/\/us05web.zoom.us\/j\/6171671225?"
                 }],
          "type":"tilelayer",
          "visible":true,
