@@ -522,6 +522,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"allowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/us05web.zoom.us\/j\/6171671225?"
