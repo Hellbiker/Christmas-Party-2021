@@ -527,7 +527,7 @@
                  "value":"Welcome_merry_smiths"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
@@ -542,7 +542,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/cvw-rjsv-bvj"
+                 "value":"https:\/\/us05web.zoom.us\/j\/6171671225?pwd=U1lucHVycHh4V2xXY0o5UzF3QWx3QT09"
                 }],
          "type":"tilelayer",
          "visible":true,
