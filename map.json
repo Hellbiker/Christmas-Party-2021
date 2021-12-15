@@ -522,9 +522,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"WelcometoSDChristmasParty2021"
+                 "value":"https:\/\/success.zoom.us\/wc\/join\/6171671225"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera; micorophone; fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
