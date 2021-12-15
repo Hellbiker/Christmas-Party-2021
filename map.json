@@ -524,12 +524,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/us05web.zoom.us\/j\/6171671225?"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"camera; micorophone; fullscreen"
+                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3af4eaf4b51ac94a21a675a4f2f51e46ef%40thread.tacv2\/1633541007717?context=%7b%22Tid%22%3a%2269f1ca9b-6971-470b-aebb-4f93a2530ae8%22%2c%22Oid%22%3a%22d567ef45-2561-4c88-8300-d66d6293e93c%22%7d"
                 }],
          "type":"tilelayer",
          "visible":true,
