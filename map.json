@@ -522,7 +522,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/us05web.zoom.us\/j\/6171671225?"
                 }, 
