@@ -522,9 +522,19 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"WelcomeandMerryChristmasSD"
+                }, 
+                {
                  "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3af4eaf4b51ac94a21a675a4f2f51e46ef%40thread.tacv2\/1633541007717?context=%7b%22Tid%22%3a%2269f1ca9b-6971-470b-aebb-4f93a2530ae8%22%2c%22Oid%22%3a%22d567ef45-2561-4c88-8300-d66d6293e93c%22%7d"
+                }, 
+                {
+                 "name":"url",
+                 "type":"string",
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeD77JNjdOW66gofn_cQR4cVezTwFj2sSL1Km9vt0yYC2AH6Q\/viewform?"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -863,7 +873,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":65,
+ "nextlayerid":66,
  "nextobjectid":2,
  "orientation":"orthogonal",
  "properties":[
@@ -1729,6 +1739,19 @@
          "name":"HS10080XCT_SD",
          "spacing":0,
          "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":6562,
+         "image":"assets\/Teamslink.png",
+         "imageheight":114,
+         "imagewidth":341,
+         "margin":0,
+         "name":"Teamslink",
+         "spacing":0,
+         "tilecount":30,
          "tileheight":32,
          "tilewidth":32
         }],
