@@ -530,6 +530,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeD77JNjdOW66gofn_cQR4cVezTwFj2sSL1Km9vt0yYC2AH6Q\/viewform?"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open Teamslink, if you have troubles using Jitsi\/Video Call"
                 }],
          "type":"tilelayer",
          "visible":true,
