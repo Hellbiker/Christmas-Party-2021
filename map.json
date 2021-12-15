@@ -539,7 +539,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE to open Teamslink, if you have troubles using Jitsi\/Video Call"
+                 "value":"Press SPACE to open Teamslink, if you have troubles using Jitsi\/Video Call and write into the chat (letter at the left upper corner))"
                 }],
          "type":"tilelayer",
          "visible":true,
